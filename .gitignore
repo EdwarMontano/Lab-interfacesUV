@@ -1,6 +1,6 @@
 # los archivos que no quiero en mi repositorio
 *.gdoc
-*.ini
+**/*.ini
 # los folders que no quiero en mi repositorio
 
 Laboratorio_01/DOCs/RUP/
