@@ -29,7 +29,7 @@ public class Laboratorio_1 extends JComponent {
 
 	  public  void  paintComponent(Graphics g)
 	  {
-	    g.drawString(" Esta Vaina está Vacía", 400, 400);
+	    g.drawString("Ojalá que salga esto", 400, 400);
 	  }
 }
 
