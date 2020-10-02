@@ -1,8 +1,10 @@
 # Laboratorio 1 - Developing of GUI for a virtual lab
+**Autores:** Natalia Lora, Edwar Stiven Montaño
 
 * Introducir al estudiante al proceso de desarrollo de un software teniendo en cuenta: la
 elaboración de la tabla de requerimientos, los casos de uso, el modelo conceptual,
 diagramas de secuencia y los diagramas de clase.
+**Palabras Clave**  — Java, Gráficación señal, Input y Outputs.
 
 * Implementar una interfaz de usuario (GUI) que cumpla con los requerimientos iniciales
 y posea toda la documentación de desarrollo.
@@ -42,3 +44,11 @@ APIs.
 
 **Nota 2:** La entrada de datos por el puerto serie NO se tiene en cuenta en esta práctica, use
 secuencias aleatorias de datos.
+## Bosquejo GUI
+
+<img width="250px" src="https://i.ibb.co/6RWsf0B/Diapositiva1.png">
+  
+ 
+ <img width="250px" src="https://i.ibb.co/dB7KTF6/Diapositiva2.png" alt="Diapositiva2" border="0">
+  
+
