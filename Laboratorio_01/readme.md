@@ -51,4 +51,9 @@ secuencias aleatorias de datos.
  
  <img width="250px" src="https://i.ibb.co/dB7KTF6/Diapositiva2.png" alt="Diapositiva2" border="0">
   
+  
+  ## Diagrama de Clases
+
+<img width="500px" src="https://i.ibb.co/2yLSnLT/Diagrama-de-Clases-Laboratorio-1.png" alt="Diagrama-de-Clases-Laboratorio-1" >
+  
 
