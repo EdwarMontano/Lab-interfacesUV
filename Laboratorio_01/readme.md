@@ -59,7 +59,13 @@ secuencias aleatorias de datos.
   
  
  <img width="250px" src="./DOCs/Graficas/Bosquejo GUI/Diapositiva2.PNG" alt="Diapositiva2">
+
+## GUI Final
+
+<img width="250px" src="./DOCs/Graficas/Gui_in.PNG" alt="Diapositiva1" >
   
+ 
+ <img width="250px" src="./DOCs/Graficas/Gui_out.PNG" alt="Diapositiva2">
   
 
 
