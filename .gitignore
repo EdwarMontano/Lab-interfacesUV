@@ -1,10 +1,12 @@
 # los archivos que no quiero en mi repositorio
 *.gdoc
 *.ini
+*.drawio
 # los folders que no quiero en mi repositorio
 
-Laboratorio_01/DOCs/RUP/
-Laboratorio_01/DOCs/Graficas/
+#Laboratorio_01/DOCs/RUP/
+
+
 
 # Created by https://www.toptal.com/developers/gitignore/api/java
 # Edit at https://www.toptal.com/developers/gitignore?templates=java
