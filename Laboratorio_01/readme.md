@@ -44,16 +44,22 @@ APIs.
 
 **Nota 2:** La entrada de datos por el puerto serie NO se tiene en cuenta en esta práctica, use
 secuencias aleatorias de datos.
+ 
+## Diagrama Conceptual
+
+<img width="500px" src="./DOCs/Graficas/Diagrama_Conceptual.svg" alt="Diagrama Conceptual">
+
+## Diagrama de Clases
+
+<img width="500px" src="./DOCs/Graficas/Diagrama de  ClasesLaboratorio 1.png" alt="Diagrama-de-Clases-Laboratorio-1" >
+
 ## Bosquejo GUI
 
-<img width="250px" src="https://i.ibb.co/6RWsf0B/Diapositiva1.png">
+<img width="250px" src="./DOCs/Graficas/Bosquejo GUI/Diapositiva1.PNG" alt="Diapositiva1" >
   
  
- <img width="250px" src="https://i.ibb.co/dB7KTF6/Diapositiva2.png" alt="Diapositiva2" border="0">
+ <img width="250px" src="./DOCs/Graficas/Bosquejo GUI/Diapositiva2.PNG" alt="Diapositiva2">
   
   
-  ## Diagrama de Clases
 
-<img width="500px" src="https://i.ibb.co/2yLSnLT/Diagrama-de-Clases-Laboratorio-1.png" alt="Diagrama-de-Clases-Laboratorio-1" >
-  
 
